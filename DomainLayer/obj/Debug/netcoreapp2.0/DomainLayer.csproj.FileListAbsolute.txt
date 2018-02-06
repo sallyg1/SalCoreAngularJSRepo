@@ -1,0 +1,9 @@
+E:\LocalProject\Angularweb\DomainLayer\bin\Debug\netcoreapp2.0\DomainLayer.deps.json
+E:\LocalProject\Angularweb\DomainLayer\bin\Debug\netcoreapp2.0\DomainLayer.dll
+E:\LocalProject\Angularweb\DomainLayer\bin\Debug\netcoreapp2.0\DomainLayer.pdb
+E:\LocalProject\Angularweb\DomainLayer\obj\Debug\netcoreapp2.0\DomainLayer.csproj.CoreCompileInputs.cache
+E:\LocalProject\Angularweb\DomainLayer\obj\Debug\netcoreapp2.0\DomainLayer.AssemblyInfoInputs.cache
+E:\LocalProject\Angularweb\DomainLayer\obj\Debug\netcoreapp2.0\DomainLayer.AssemblyInfo.cs
+E:\LocalProject\Angularweb\DomainLayer\obj\Debug\netcoreapp2.0\DomainLayer.dll
+E:\LocalProject\Angularweb\DomainLayer\obj\Debug\netcoreapp2.0\DomainLayer.pdb
+E:\LocalProject\Angularweb\DomainLayer\obj\Debug\netcoreapp2.0\DomainLayer.csprojResolveAssemblyReference.cache

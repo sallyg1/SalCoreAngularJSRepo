@@ -1,0 +1,13 @@
+E:\LocalProject\Angularweb\ServiceLayer\bin\Debug\netcoreapp2.0\ServiceLayer.deps.json
+E:\LocalProject\Angularweb\ServiceLayer\bin\Debug\netcoreapp2.0\ServiceLayer.dll
+E:\LocalProject\Angularweb\ServiceLayer\bin\Debug\netcoreapp2.0\ServiceLayer.pdb
+E:\LocalProject\Angularweb\ServiceLayer\bin\Debug\netcoreapp2.0\DomainLayer.dll
+E:\LocalProject\Angularweb\ServiceLayer\bin\Debug\netcoreapp2.0\DomainLayer.pdb
+E:\LocalProject\Angularweb\ServiceLayer\obj\Debug\netcoreapp2.0\ServiceLayer.csproj.CoreCompileInputs.cache
+E:\LocalProject\Angularweb\ServiceLayer\obj\Debug\netcoreapp2.0\ServiceLayer.AssemblyInfoInputs.cache
+E:\LocalProject\Angularweb\ServiceLayer\obj\Debug\netcoreapp2.0\ServiceLayer.AssemblyInfo.cs
+E:\LocalProject\Angularweb\ServiceLayer\obj\Debug\netcoreapp2.0\ServiceLayer.dll
+E:\LocalProject\Angularweb\ServiceLayer\obj\Debug\netcoreapp2.0\ServiceLayer.pdb
+E:\LocalProject\Angularweb\ServiceLayer\obj\Debug\netcoreapp2.0\ServiceLayer.csprojResolveAssemblyReference.cache
+E:\LocalProject\Angularweb\ServiceLayer\bin\Debug\netcoreapp2.0\DatabaseRepositoryLayer.dll
+E:\LocalProject\Angularweb\ServiceLayer\bin\Debug\netcoreapp2.0\DatabaseRepositoryLayer.pdb
